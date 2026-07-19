@@ -6,6 +6,7 @@ A collection of conference talks, seminars, and workshops I've given, with slide
 - LinkedIn: https://www.linkedin.com/in/emanuelefabbiani/
 - Sessionize (speaker profile): https://sessionize.com/emanuele-fabbiani/
 - Google Scholar: https://scholar.google.com/citations?user=aK8MDJIAAAAJ
+- Medium: https://medium.com/@donlelef
 - YouTube (talk recordings): https://www.youtube.com/playlist?list=PLbrceUOJLNLSlZfIWXZCdXzTeVw3JSurG
 
 ## Index
