@@ -4,11 +4,8 @@ A playful, demo-driven talk on multimodal AI with Google Gemini.
 
 ## Where it was held
 
-- Codemotion conference (edition to be confirmed)
+- Codemotion meetup 2024, Milan, Italy
 
-## Code
-
-- [xtreamsrl/codemotion-autogen (related, please verify)](https://github.com/xtreamsrl/codemotion-autogen)
 
 ## Slides
 

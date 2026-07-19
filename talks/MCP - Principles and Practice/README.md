@@ -5,6 +5,7 @@ An introduction to the Model Context Protocol — what it is, why it matters, an
 ## Where it was held
 
 - AgentCon, 2025
+- PyData Paris, 2025 (by Gabriele Orlandi and Fabio Lipreri)
 
 ## Code
 

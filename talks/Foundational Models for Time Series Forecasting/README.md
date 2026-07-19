@@ -4,10 +4,10 @@ Traces the evolution of forecasting methods from simple heuristics to transforme
 
 ## Where it was held
 
-- Venue and date not recorded
+- Invited lecture at Wrocław University of Science and Technology, 2026
 
 ## Slides
 
 [slides.pdf](slides.pdf)
 
-Additional edition: [slides-dark-theme.pdf](slides-dark-theme.pdf) — alternate dark-theme edition
+

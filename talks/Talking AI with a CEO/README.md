@@ -5,7 +5,7 @@ A conversation-style talk on AI strategy from the perspective of a founder and C
 ## Where it was held
 
 - Profession AI, April 2024
-- Wroclaw, Poland, January 2024
+- Invited lecture at Wrocław University of Science and Technology, Wroclaw, Poland, January 2024
 
 ## Slides
 

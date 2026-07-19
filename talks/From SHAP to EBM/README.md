@@ -6,8 +6,7 @@ Compares SHAP and Explainable Boosting Machines for interpreting tree-based ense
 
 - Swiss Python Summit, 2024
 - Kaggle Days, Milan, 2024
-- IDSC
-- AI Conf
+- AI Conf, Milan, 2024
 
 ## Video
 

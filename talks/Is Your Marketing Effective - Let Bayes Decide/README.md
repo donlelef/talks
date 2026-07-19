@@ -7,6 +7,7 @@ A Bayesian approach to measuring marketing media-mix effectiveness, illustrated 
 - PyData Milan, Berlin, and Paris, 2024
 - WeMakeFuture, Bologna, Italy, 2024
 - DataBeer @ PyCon, 2024
+- Applied Machine Learning Days 2025, Lausanne, Switzerland
 
 ## Video
 

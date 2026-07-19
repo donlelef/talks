@@ -8,4 +8,4 @@ Practical guidance for organisations rolling out AI adoption programmes, in six 
 
 ## Slides
 
-_Not available yet._ Only a PowerPoint deck (with an Italian translation) survives in the archive, no PDF export. Let me know if you'd like it converted.
+[slides.pdf](slides.pdf)

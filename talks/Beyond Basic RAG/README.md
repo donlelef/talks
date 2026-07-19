@@ -4,7 +4,7 @@ Goes past naive Retrieval Augmented Generation into the techniques needed to mak
 
 ## Where it was held
 
-- AI Heroes conference, Turin, Italy (edition to be confirmed)
+- AI Heroes conference 2025, Turin, Italy
 
 ## Code
 

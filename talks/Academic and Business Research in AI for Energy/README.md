@@ -5,7 +5,6 @@ Addresses the gap between academic research and industry requirements in power a
 ## Where it was held
 
 - Applied Machine Learning Days (AMLD), Lausanne, Switzerland, January 2020
-- Swiss Data Science Conference, Zurich, 2023
 
 ## Video
 

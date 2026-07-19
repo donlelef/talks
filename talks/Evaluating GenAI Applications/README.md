@@ -4,7 +4,7 @@ A practical framework for evaluating GenAI applications before and after they re
 
 ## Where it was held
 
-- Internal talk at Nexi — date not recorded
+- Internal talk at Nexi, 2026
 
 ## Slides
 
