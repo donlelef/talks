@@ -46,3 +46,12 @@ A collection of conference talks, seminars, and workshops I've given, with slide
 | [Tool, Author, or Danger? The Role of Generative AI in Academic Research](talks/Tool%2C%20Author%2C%20or%20Danger/) | SIIAM Congress, Rome, Italy, 2023 | [✓](talks/Tool%2C%20Author%2C%20or%20Danger/Tool%2C%20Author%2C%20or%20Danger%20The%20Role%20of%20Generative%20AI%20in%20Academic%20Research.pdf) | [✓](https://www.youtube.com/watch?v=7iDjcGvc5_Y) | — |
 | [Vibe Coding - The good, the bad, the ugly](talks/Vibe%20Coding%20-%20The%20good%2C%20the%20bad%2C%20the%20ugly/) | WeMakeFuture, Bologna, Italy, 2025 *(+1 more)* | [✓](talks/Vibe%20Coding%20-%20The%20good%2C%20the%20bad%2C%20the%20ugly/Vibe%20Coding%20-%20The%20good%2C%20the%20bad%2C%20the%20ugly.pdf) | — | — |
 | [Your Degree is Worthless](talks/Your%20Degree%20is%20Worthless/) | Catholic University of Milan - invited lecture, Milan, Italy, 2025 | [✓](talks/Your%20Degree%20is%20Worthless/Your%20Degree%20is%20Worthless.pdf) | — | — |
+
+## Academic Work
+
+| Work | Where | Document |
+|---|---|---|
+| [Applications of the Lyapunov Equation to Derivative Pricing](academic/Master%20Thesis%20-%20Applications%20of%20the%20Lyapunov%20Equation%20to%20Derivative%20Pricing/) | Master's Degree in Computer Engineering, University of Pavia, Italy, 2017 | [✓](academic/Master%20Thesis%20-%20Applications%20of%20the%20Lyapunov%20Equation%20to%20Derivative%20Pricing/Master%20Thesis%20-%20Applications%20of%20the%20Lyapunov%20Equation%20to%20Derivative%20Pricing.pdf) |
+| [Machine Learning Approaches for Energy Distribution and Planning](academic/PhD%20Thesis%20-%20Machine%20Learning%20Approaches%20for%20Energy%20Distribution%20and%20Planning/) | PhD in Electrical, Computer and Biomedical Engineering, University of Pavia, Italy, 2020 | [✓](academic/PhD%20Thesis%20-%20Machine%20Learning%20Approaches%20for%20Energy%20Distribution%20and%20Planning/PhD%20Thesis%20-%20Machine%20Learning%20Approaches%20for%20Energy%20Distribution%20and%20Planning.pdf) |
+
+My other academic work — journal articles, conference papers, and citations — can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=aK8MDJIAAAAJ).
