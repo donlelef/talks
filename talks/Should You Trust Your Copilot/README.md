@@ -9,9 +9,9 @@ Attendees leave with a practical checklist for adopting AI coding assistants on 
 ## Where it was held
 
 - Pisa.dev, Pisa, Italy, 2023
-- ODSC Europe, 2023 (city not confirmed — ODSC Europe is commonly held in London)
+- ODSC Europe, London, UK, 2023
 - WeAreDevelopers, Berlin, Germany, 2023
-- BitRocket, Palermo, Italy, 2023
+- Talks at BitRocket, Palermo, Italy, 2023
 
 ## Slides
 

@@ -6,7 +6,7 @@ Attendees leave with a concrete evaluation checklist they can apply to their own
 
 ## Where it was held
 
-- Nexi — internal talk, Milan, Italy, 2026 (city inferred from Nexi's HQ, please verify)
+- Nexi — internal talk, Milan, Italy, 2026
 
 ## Slides
 

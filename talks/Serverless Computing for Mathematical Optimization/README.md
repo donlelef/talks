@@ -6,9 +6,8 @@ Attendees leave with a concrete pattern for parallelising optimization workloads
 
 ## Where it was held
 
-- PyCon Italy, Italy, 2023
-- Math2Product, Taormina, Italy, 2023
-- Cloud Day, 2024
+- PyCon Italy, Florence, Italy, 2023
+- Cloud Day, Milan, Italy, 2024
 - ServerlessDays, Rome, Italy, 2024
 
 ## Video

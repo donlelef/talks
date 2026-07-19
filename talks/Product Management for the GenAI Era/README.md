@@ -6,7 +6,7 @@ Attendees leave with a concrete list of product management practices to adjust â
 
 ## Where it was held
 
-- Eni â€” internal seminar, Italy
+- Talks at Eni, Milan, Italy, 2025
 
 ## Slides
 

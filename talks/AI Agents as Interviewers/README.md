@@ -6,7 +6,7 @@ It's a concrete look at a new way of building specs: attendees walk away with a 
 
 ## Where it was held
 
-- Cursor Cafe, 2026
+- Cursor Cafe, Milan, Italy, 2026
 
 ## Code
 

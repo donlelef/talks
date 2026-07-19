@@ -7,13 +7,16 @@ It's a talk built for engineers who use LLMs daily but have never had a clear pi
 ## Where it was held
 
 - Codemotion, Milan, Italy, 2024
-- WeAreDevelopers, Berlin, Germany, 2025
+- BI Digital, Biella, Italy, 2024
 - Papers We Love, Milan, Italy, 2024
+- WeAreDevelopers, Berlin, Germany, 2025
+
 
 ## Video
 
-- [Papers We Love - Inside the Mind of an LLM - 2024](https://www.youtube.com/watch?v=r7a4P5ZZRsI)
-- [Codemotion - Inside the Mind of an LLM - 2024](https://www.youtube.com/watch?v=W8EtiPVV9Fk)
+- [WeAreDevelopers - Inside the Mind of an LLM - 2025](https://www.wearedevelopers.com/en/videos/1617/inside-the-mind-of-an-llm)
+- [Codemotion - Inside the Mind of an LLM - 2024](https://www.youtube.com/watch?v=r7a4P5ZZRsI)
+- [Papers We Love - Inside the Mind of an LLM - 2024](https://www.youtube.com/watch?v=W8EtiPVV9Fk)
 
 ## Slides
 

@@ -6,14 +6,15 @@ Attendees leave with a working mental model of diffusion models that demystifies
 
 ## Where it was held
 
-- Codemotion — meetup, 2024
+- Codemotion meetup, Milan, Italy, 2024
 - Py4AI, Pavia, Italy, 2024
 - Papers We Love, Milan, Italy, 2024
+- Talks at Data Masters, Milan, Italy, 2025
 
 ## Video
 
 - [Py4AI - Ordo Ab Chao: The Magic of DALL-E and Midjourney - 2024](https://www.youtube.com/watch?v=Svxb36_FaUk)
-- [Papers We Love - Ordo Ab Chao: The Magic of DALL-E and Midjourney - 2024](https://www.youtube.com/watch?v=rUeCgB6VieI)
+- [Talks at Data Masters - Da Dall-E a Midjourney: guida ai diffusion models più potenti al mondo - 2025](https://www.youtube.com/watch?v=rUeCgB6VieI)
 
 ## Slides
 

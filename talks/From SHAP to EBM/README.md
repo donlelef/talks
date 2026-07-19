@@ -6,14 +6,14 @@ Attendees leave with a practical sense of when EBM's built-in interpretability i
 
 ## Where it was held
 
-- Swiss Python Summit, Switzerland, 2024 (city not confirmed — likely Rapperswil)
+- Swiss Python Summit, Rapperswil (Zurich), Switzerland, 2024
 - Kaggle Days, Milan, Italy, 2024
 - AI Conf, Milan, Italy, 2024
 
 ## Video
 
 - [Swiss Python Summit - From SHAP to EBM: Explain Your Gradient Boosting Models in Python - 2024](https://www.youtube.com/watch?v=hnZjw77-1rE)
-- [AI Conf - From SHAP to EBM: Explain Your Gradient Boosting Models in Python - 2024](https://www.youtube.com/watch?v=i17n5eFQQNM)
+- [Kaggle Days - From SHAP to EBM: Explain Your Gradient Boosting Models in Python - 2024](https://www.youtube.com/watch?v=i17n5eFQQNM)
 
 ## Code
 

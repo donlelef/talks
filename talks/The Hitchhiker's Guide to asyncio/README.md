@@ -7,13 +7,13 @@ Attendees leave with a clear mental model of when asyncio is the right tool, and
 ## Where it was held
 
 - Python Milan, Milan, Italy, 2023
-- PyCon Italy, Italy, 2023
-- Swiss Python Summit, Switzerland, 2024 (city not confirmed — likely Rapperswil)
+- PyCon Italy, Florence, Italy, 2023
+- Swiss Python Summit, Rapperswil (Zurich), Switzerland, 2024
 
 ## Video
 
-- [PyCon Italy - The Hitchhiker's Guide to asyncio - 2023](https://www.youtube.com/watch?v=UyRj8Sh3E_Y)
-- [Python Milan - The Hitchhiker's Guide to asyncio - 2023](https://www.youtube.com/watch?v=k0fzfhRJ2UM)
+- [Python Milan - The Hitchhiker's Guide to asyncio - 2023](https://www.youtube.com/watch?v=UyRj8Sh3E_Y)
+- [PyCon Italy - The Hitchhiker's Guide to asyncio - 2023](https://www.youtube.com/watch?v=k0fzfhRJ2UM)
 - [Swiss Python Summit - The Hitchhiker's Guide to asyncio - 2024](https://www.youtube.com/watch?v=q3nTbrLp4Mc)
 
 ## Code

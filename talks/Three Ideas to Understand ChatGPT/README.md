@@ -6,15 +6,14 @@ Attendees leave with a solid, non-hand-wavy understanding of how ChatGPT actuall
 
 ## Where it was held
 
-- Talks at Buildo, Turin, Italy, 2023 (city not confirmed)
-- Event name not recorded, Biella, Italy, 2023
-- BI Digital, Italy, 2023
+- Talks at Buildo, Milan, Italy, 2023 
+- BI Digital, Biella, Italy, 2023
 - Boolean Masterclass, Milan, Italy, 2023
-- Event name not recorded, Palermo, Italy, 2023
+- Talks at BitRocket, Palermo, Italy, 2023
 - SIIAM Congress, Rome, Italy, 2023
 - Futuru, Iglesias, Italy, 2024
 - Milano AI Conference, Milan, Italy, 2024
-- Event name not recorded, Reggio Emilia, Italy, 2024
+- Talks at Forografia Europea, Reggio Emilia, Italy, 2024
 
 ## Video
 

@@ -6,7 +6,7 @@ Attendees leave with a working understanding of MCP's core principles, enough to
 
 ## Where it was held
 
-- AgentCon, 2025
+- AgentCon, Milan, Italy, 2025
 - PyData Paris, Paris, France, 2025 (delivered by Gabriele Orlandi and Fabio Lipreri)
 
 ## Code

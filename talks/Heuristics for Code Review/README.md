@@ -6,7 +6,7 @@ Attendees leave with a set of heuristics they can apply the next time they open 
 
 ## Where it was held
 
-- Credimi — internal talk, Milan, Italy, 2022 (city inferred from Credimi's HQ, please verify)
+- Credimi — internal talk, Milan, Italy, 2022
 
 ## Slides
 

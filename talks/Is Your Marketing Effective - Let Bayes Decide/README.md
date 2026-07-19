@@ -12,14 +12,14 @@ Either way, attendees leave able to answer "is our marketing actually working" w
 - PyData, Berlin, Germany, 2024
 - PyData, Paris, France, 2024
 - WeMakeFuture, Bologna, Italy, 2024
-- DataBeer @ PyCon Italy, Italy, 2024
+- DataBeer @ PyCon Italy, Florence, Italy, 2024
 - Applied Machine Learning Days (AMLD) — workshop, Lausanne, Switzerland, 2025
 
 ## Video
 
 - [PyData Paris - Is Your Marketing Effective? Let Bayes Decide! - 2024](https://www.youtube.com/watch?v=GYmE_VcAeJA)
-- [DataBeer @ PyCon Italy - Is Your Marketing Effective? Let Bayes Decide! - 2024](https://www.youtube.com/watch?v=bo2IidymmX0)
-- [AMLD - Is Your Marketing Effective? Let Bayes Decide! - 2025](https://www.youtube.com/watch?v=kdxaShB1vOw)
+- [PyData Milan - Is Your Marketing Effective? Let Bayes Decide! - 2024](https://www.youtube.com/watch?v=bo2IidymmX0)
+- [PyCon & PyData DE - Marketing Media Mix Models with Python & PyMC: a Case Study - 2024](https://youtu.be/k2LDWMLZQ8k?si=HcoY2BFUMlBFP6tF)
 
 ## Code
 

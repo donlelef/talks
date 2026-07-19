@@ -6,7 +6,7 @@ Attendees leave with a clearer, less credential-obsessed idea of what to actuall
 
 ## Where it was held
 
-- Venue not recorded
+- Catholic University of Milan - invited lecture, Milan, Italy, 2025
 
 ## Slides
 

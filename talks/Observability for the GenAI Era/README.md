@@ -6,8 +6,8 @@ Attendees leave able to pick the right observability tool for their GenAI stack 
 
 ## Where it was held
 
-- PyCon Italy, Italy, 2025
-- PyData, Berlin, Germany, 2025
+- PyCon Italy, Bologna, Italy, 2025
+- PyCon & PyData DE, Berlin, Germany, 2025
 
 ## Video
 

@@ -6,7 +6,7 @@ Attendees leave with a founder's-eye view of AI strategy they can compare agains
 
 ## Where it was held
 
-- Profession AI, Italy, 2024
+- Talks with Profession AI, Milan, Italy, 2024
 - Wrocław University of Science and Technology — invited lecture, Wrocław, Poland, 2024
 
 ## Slides
