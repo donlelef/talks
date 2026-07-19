@@ -1,11 +1,9 @@
 # Talks
 
-A collection of conference talks, seminars, and workshops I've given, with slides and supporting material.
+A collection of conference talks, seminars, and workshops I've given, with slides and supporting material. See my [GitHub profile](https://github.com/donlelef) for more about me.
 
-I'm Emanuele Fabbiani — co-founder and Head of AI at [xtream](https://xtreamers.io) (part of TeamSystem), and a professor at Università Cattolica del Sacro Cuore, Milan. I hold a PhD in machine learning, was a guest researcher at EPFL Lausanne, and have spoken at 30+ international conferences on AI, machine learning, GenAI, and data engineering.
-
-- LinkedIn: https://www.linkedin.com/in/emanuelefabbiani/
 - GitHub: https://github.com/donlelef
+- LinkedIn: https://www.linkedin.com/in/emanuelefabbiani/
 - Sessionize (speaker profile): https://sessionize.com/emanuele-fabbiani/
 - Google Scholar: https://scholar.google.com/citations?user=aK8MDJIAAAAJ
 - YouTube (talk recordings): https://www.youtube.com/playlist?list=PLbrceUOJLNLSlZfIWXZCdXzTeVw3JSurG
