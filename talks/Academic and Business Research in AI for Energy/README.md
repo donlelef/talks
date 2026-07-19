@@ -1,15 +1,17 @@
 # Academic and Business Research in AI for Energy
 
-Addresses the gap between academic research and industry requirements in power and gas demand forecasting.
+Academic forecasting models routinely outperform industry baselines on paper — and routinely fail once they hit real operational constraints. This talk addresses the gap between what academic research assumes and what industry actually requires in power and gas demand forecasting.
+
+Attendees leave with a clearer sense of which academic techniques are worth adopting in a real forecasting pipeline, and which look good only in a paper.
 
 ## Where it was held
 
-- Applied Machine Learning Days (AMLD), Lausanne, Switzerland, January 2020
+- Applied Machine Learning Days (AMLD), Lausanne, Switzerland, 2020
 
 ## Video
 
-- [ML for Energy: why academic models fail in the real world | AI & Energy | Emanuele Fabbiani](https://www.youtube.com/watch?v=FZwOrGD3agA)
+- [AMLD - Academic and Business Research in AI for Energy - 2020](https://www.youtube.com/watch?v=FZwOrGD3agA)
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[Academic and Business Research in AI for Energy.pdf](Academic%20and%20Business%20Research%20in%20AI%20for%20Energy.pdf)

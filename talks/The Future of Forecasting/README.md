@@ -1,6 +1,8 @@
 # The Future of Forecasting
 
-A forward-looking talk on where forecasting methods and tooling are headed.
+Forecasting tooling is changing faster than most teams' forecasting practice. This forward-looking talk covers where forecasting methods and tooling are headed — from foundation models to automated pipelines — and what that means for teams still running last decade's stack.
+
+Attendees leave with a clearer sense of which forecasting trends are worth investing in now, and which are still too early to bet on.
 
 ## Where it was held
 
@@ -8,4 +10,4 @@ A forward-looking talk on where forecasting methods and tooling are headed.
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[The Future of Forecasting.pdf](The%20Future%20of%20Forecasting.pdf)

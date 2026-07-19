@@ -1,11 +1,13 @@
 # AI in Business and Academy
 
-A talk bridging how AI is applied in industry versus how it's taught and researched in academia.
+Industry and academia often talk past each other on AI: academia optimises for novelty and rigor, business for shipping something that works under real constraints. This talk bridges the two, showing where academic AI research translates directly into business value and where it doesn't.
+
+Attendees get a clearer map of how to pull useful ideas from academic AI research into a business context without getting lost in either extreme.
 
 ## Where it was held
 
-- Eni, September 2022
+- Eni, Italy, 2022
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[AI in Business and Academy.pdf](AI%20in%20Business%20and%20Academy.pdf)

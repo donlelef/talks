@@ -1,23 +1,25 @@
 # Embeddings, Transformers, RLHF: Three Key Ideas to Understand ChatGPT
 
-Breaks down the three core ideas behind ChatGPT's architecture and behaviour: embeddings, the transformer architecture, and reinforcement learning from human feedback.
+ChatGPT feels like a single breakthrough, but it's really three: embeddings, the transformer architecture, and reinforcement learning from human feedback, stacked on top of each other. This talk breaks down each of the three, in the order they need to click for the whole picture to make sense.
+
+Attendees leave with a solid, non-hand-wavy understanding of how ChatGPT actually works — enough to explain it accurately to a colleague afterwards.
 
 ## Where it was held
 
-- Talks at Buildo, 2023
-- Biella, Italy, October 2023
-- BI Digital, 2023
-- Boolean Masterclass, Milan, November 2023
-- Palermo, Italy, December 2023
-- SIIAM Congress, Rome, December 2023
+- Talks at Buildo, Turin, Italy, 2023 (city not confirmed)
+- Event name not recorded, Biella, Italy, 2023
+- BI Digital, Italy, 2023
+- Boolean Masterclass, Milan, Italy, 2023
+- Event name not recorded, Palermo, Italy, 2023
+- SIIAM Congress, Rome, Italy, 2023
 - Futuru, Iglesias, Italy, 2024
-- Milano AI Conference, June 2024
-- Reggio Emilia, Italy, June 2024
+- Milano AI Conference, Milan, Italy, 2024
+- Event name not recorded, Reggio Emilia, Italy, 2024
 
 ## Video
 
-- [Emanuele Fabbiani - Embeddings, Transformers, RLHF @ Futuru 2024](https://www.youtube.com/watch?v=m5qY4GNFEsA)
+- [Futuru - Embeddings, Transformers, RLHF: Three Key Ideas to Understand ChatGPT - 2024](https://www.youtube.com/watch?v=m5qY4GNFEsA)
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[Embeddings, Transformers, RLHF - Three Key Ideas to Understand ChatGPT.pdf](Embeddings%2C%20Transformers%2C%20RLHF%20-%20Three%20Key%20Ideas%20to%20Understand%20ChatGPT.pdf)

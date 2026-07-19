@@ -1,19 +1,25 @@
 # Is Your Marketing Effective? Let Bayes Decide!
 
-A Bayesian approach to measuring marketing media-mix effectiveness, illustrated with a WeRoad case study. Also delivered as a hands-on workshop.
+Marketing attribution is a genuinely hard statistics problem dressed up as a business question. This talk introduces a Bayesian approach to measuring marketing media-mix effectiveness, illustrated with a real case study from WeRoad, and shows how to get honest uncertainty estimates instead of a single misleadingly-precise number.
+
+It's also delivered as a hands-on workshop, where attendees build a media-mix model themselves instead of just watching one.
+
+Either way, attendees leave able to answer "is our marketing actually working" with a defensible, data-backed method — not a hunch dressed up in a dashboard.
 
 ## Where it was held
 
-- PyData Milan, Berlin, and Paris, 2024
+- PyData, Milan, Italy, 2024
+- PyData, Berlin, Germany, 2024
+- PyData, Paris, France, 2024
 - WeMakeFuture, Bologna, Italy, 2024
-- DataBeer @ PyCon, 2024
-- Applied Machine Learning Days 2025, Lausanne, Switzerland
+- DataBeer @ PyCon Italy, Italy, 2024
+- Applied Machine Learning Days (AMLD) — workshop, Lausanne, Switzerland, 2025
 
 ## Video
 
-- [Emanuele Fabbiani - Is your marketing effective? Let Bayes decide! | PyData Paris 2024](https://www.youtube.com/watch?v=GYmE_VcAeJA)
-- [Is your marketing effective? Let Bayes decide!](https://www.youtube.com/watch?v=bo2IidymmX0)
-- [Marketing Media Mix: Tips and Lessons Learnt](https://www.youtube.com/watch?v=kdxaShB1vOw)
+- [PyData Paris - Is Your Marketing Effective? Let Bayes Decide! - 2024](https://www.youtube.com/watch?v=GYmE_VcAeJA)
+- [DataBeer @ PyCon Italy - Is Your Marketing Effective? Let Bayes Decide! - 2024](https://www.youtube.com/watch?v=bo2IidymmX0)
+- [AMLD - Is Your Marketing Effective? Let Bayes Decide! - 2025](https://www.youtube.com/watch?v=kdxaShB1vOw)
 
 ## Code
 
@@ -21,6 +27,6 @@ A Bayesian approach to measuring marketing media-mix effectiveness, illustrated 
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[Is Your Marketing Effective Let Bayes Decide.pdf](Is%20Your%20Marketing%20Effective%20Let%20Bayes%20Decide.pdf)
 
-Additional edition: [workshop-slides.pdf](workshop-slides.pdf) — hands-on workshop edition
+Additional edition: [Is Your Marketing Effective Let Bayes Decide (Workshop Edition).pdf](Is%20Your%20Marketing%20Effective%20Let%20Bayes%20Decide%20%28Workshop%20Edition%29.pdf) — hands-on workshop edition

@@ -1,10 +1,12 @@
 # Beyond Basic RAG
 
-Goes past naive Retrieval Augmented Generation into the techniques needed to make RAG systems reliable in production.
+A naive retrieve-then-generate pipeline demos well and breaks in production. This talk goes past basic RAG into the techniques — chunking strategy, retrieval quality, re-ranking, evaluation — that make the difference between a RAG demo and a RAG system people actually trust.
+
+Attendees leave with a concrete upgrade path from a basic RAG prototype to something reliable enough to ship.
 
 ## Where it was held
 
-- AI Heroes conference 2025, Turin, Italy
+- AI Heroes, Turin, Italy, 2025
 
 ## Code
 
@@ -12,4 +14,4 @@ Goes past naive Retrieval Augmented Generation into the techniques needed to mak
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[Beyond Basic RAG.pdf](Beyond%20Basic%20RAG.pdf)

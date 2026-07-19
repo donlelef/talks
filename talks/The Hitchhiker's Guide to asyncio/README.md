@@ -1,18 +1,20 @@
 # The Hitchhiker's Guide to asyncio
 
-A deep dive into Python concurrency: threading, multiprocessing, event loops, coroutines, and tasks.
+Python concurrency is confusing because it's actually three different things wearing a trench coat: threading, multiprocessing, and asyncio, each solving a different problem. This talk is a deep dive into asyncio specifically — event loops, coroutines, and tasks — and how it fits alongside the other two.
+
+Attendees leave with a clear mental model of when asyncio is the right tool, and stop reaching for it (or avoiding it) out of habit rather than understanding.
 
 ## Where it was held
 
-- Python Milan, March 2023
-- PyCon Italy, May 2023
-- Swiss Python Summit, 2024
+- Python Milan, Milan, Italy, 2023
+- PyCon Italy, Italy, 2023
+- Swiss Python Summit, Switzerland, 2024 (city not confirmed — likely Rapperswil)
 
 ## Video
 
-- [The hitchhiker's guide to asyncio.](https://www.youtube.com/watch?v=UyRj8Sh3E_Y)
-- [The hitchhiker's guide to asyncio - Fabbiani](https://www.youtube.com/watch?v=k0fzfhRJ2UM)
-- [Emanuele Fabbiani - The hitchhiker's guide to asyncio - SPS24](https://www.youtube.com/watch?v=q3nTbrLp4Mc)
+- [PyCon Italy - The Hitchhiker's Guide to asyncio - 2023](https://www.youtube.com/watch?v=UyRj8Sh3E_Y)
+- [Python Milan - The Hitchhiker's Guide to asyncio - 2023](https://www.youtube.com/watch?v=k0fzfhRJ2UM)
+- [Swiss Python Summit - The Hitchhiker's Guide to asyncio - 2024](https://www.youtube.com/watch?v=q3nTbrLp4Mc)
 
 ## Code
 
@@ -20,4 +22,4 @@ A deep dive into Python concurrency: threading, multiprocessing, event loops, co
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[The Hitchhiker's Guide to asyncio.pdf](The%20Hitchhiker%27s%20Guide%20to%20asyncio.pdf)

@@ -1,10 +1,12 @@
 # AI Agents as Interviewers: a New Way of Building Specs
 
-Explores using AI agents to interview stakeholders and turn the conversation directly into technical specs.
+Writing a good technical spec starts with a good interview — and interviews are exactly what LLM agents are getting good at. This talk explores using AI agents to interview stakeholders directly, turning the conversation itself into a structured technical spec instead of a separate write-up step.
+
+It's a concrete look at a new way of building specs: attendees walk away with a technique they can try on their next project to cut the time between "what do you need" and a spec engineers can build from.
 
 ## Where it was held
 
-- Cursor Cafe, July 2026
+- Cursor Cafe, 2026
 
 ## Code
 
@@ -12,4 +14,4 @@ Explores using AI agents to interview stakeholders and turn the conversation dir
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[AI Agents as Interviewers - a New Way of Building Specs.pdf](AI%20Agents%20as%20Interviewers%20-%20a%20New%20Way%20of%20Building%20Specs.pdf)

@@ -1,11 +1,13 @@
 # MCP: Principles and Practice
 
-An introduction to the Model Context Protocol — what it is, why it matters, and how to build with it.
+The Model Context Protocol is quickly becoming the default way to connect LLMs to tools and data — but the principles behind it matter more than any specific implementation. This talk introduces what MCP is, why it exists, and how to build with it, going beyond a copy-paste tutorial.
+
+Attendees leave with a working understanding of MCP's core principles, enough to design their own MCP integrations rather than just wiring up an example.
 
 ## Where it was held
 
 - AgentCon, 2025
-- PyData Paris, 2025 (by Gabriele Orlandi and Fabio Lipreri)
+- PyData Paris, Paris, France, 2025 (delivered by Gabriele Orlandi and Fabio Lipreri)
 
 ## Code
 
@@ -13,4 +15,4 @@ An introduction to the Model Context Protocol — what it is, why it matters, an
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[MCP - Principles and Practice.pdf](MCP%20-%20Principles%20and%20Practice.pdf)

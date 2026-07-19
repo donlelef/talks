@@ -1,17 +1,19 @@
 # From SHAP to EBM: Explain Your Gradient Boosting Models in Python
 
-Compares SHAP and Explainable Boosting Machines for interpreting tree-based ensemble models, with Python examples.
+SHAP is the default choice for explaining tree-based ensembles, but it's not the only one — and not always the best one. This talk compares SHAP against Explainable Boosting Machines (EBM) for interpreting gradient boosting models, with Python examples throughout.
+
+Attendees leave with a practical sense of when EBM's built-in interpretability is worth trading off against the flexibility of a black-box model plus SHAP.
 
 ## Where it was held
 
-- Swiss Python Summit, 2024
-- Kaggle Days, Milan, 2024
-- AI Conf, Milan, 2024
+- Swiss Python Summit, Switzerland, 2024 (city not confirmed — likely Rapperswil)
+- Kaggle Days, Milan, Italy, 2024
+- AI Conf, Milan, Italy, 2024
 
 ## Video
 
-- [Emanuele Fabbiani - From SHAP to EBM: Explain your Gradient Boosting Models in Python - SPS24](https://www.youtube.com/watch?v=hnZjw77-1rE)
-- [From SHAP to EBM: Explain your Gradient Boosting Models in Python](https://www.youtube.com/watch?v=i17n5eFQQNM)
+- [Swiss Python Summit - From SHAP to EBM: Explain Your Gradient Boosting Models in Python - 2024](https://www.youtube.com/watch?v=hnZjw77-1rE)
+- [AI Conf - From SHAP to EBM: Explain Your Gradient Boosting Models in Python - 2024](https://www.youtube.com/watch?v=i17n5eFQQNM)
 
 ## Code
 
@@ -19,4 +21,4 @@ Compares SHAP and Explainable Boosting Machines for interpreting tree-based ense
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[From SHAP to EBM - Explain Your Gradient Boosting Models in Python.pdf](From%20SHAP%20to%20EBM%20-%20Explain%20Your%20Gradient%20Boosting%20Models%20in%20Python.pdf)

@@ -1,11 +1,13 @@
 # Your Degree is Worthless
 
-A provocative talk on what actually matters for a career in tech and AI beyond a university degree.
+A university degree is neither necessary nor sufficient for a real career in tech and AI — and treating it as either sets people up to over- or under-invest in the wrong things. This deliberately provocative talk argues for what actually predicts career success in the field, based on real hiring and mentoring experience.
+
+Attendees leave with a clearer, less credential-obsessed idea of what to actually invest their time in, whether they're early in their career or hiring for one.
 
 ## Where it was held
 
-- Venue and date not recorded
+- Venue not recorded
 
 ## Slides
 
-[slides.pdf](slides.pdf)
+[Your Degree is Worthless.pdf](Your%20Degree%20is%20Worthless.pdf)
